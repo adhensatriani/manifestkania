@@ -1,0 +1,38 @@
+{
+  "name": "KaniaPay.com",
+  "short_name": "KaniaPay",
+  "start_url": "https://www.kaniapay.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#190A05",
+  "description": "KaniaPay.com agen tv voucher terlengkap, termurah, dan terpercaya. Menyediakan berbagai metode pembayaran.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-HxqXeE57naA/XnrcgNe3ZsI/AAAAAAAAAEQ/0_u7w8bETYsEC6GD4fgm194XKPijHrVPgCLcBGAsYHQ/s48/KaniaLogos.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HxqXeE57naA/XnrcgNe3ZsI/AAAAAAAAAEQ/0_u7w8bETYsEC6GD4fgm194XKPijHrVPgCLcBGAsYHQ/s72/KaniaLogos.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HxqXeE57naA/XnrcgNe3ZsI/AAAAAAAAAEQ/0_u7w8bETYsEC6GD4fgm194XKPijHrVPgCLcBGAsYHQ/s96/KaniaLogos.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HxqXeE57naA/XnrcgNe3ZsI/AAAAAAAAAEQ/0_u7w8bETYsEC6GD4fgm194XKPijHrVPgCLcBGAsYHQ/s144/KaniaLogos.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HxqXeE57naA/XnrcgNe3ZsI/AAAAAAAAAEQ/0_u7w8bETYsEC6GD4fgm194XKPijHrVPgCLcBGAsYHQ/s168/KaniaLogos.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HxqXeE57naA/XnrcgNe3ZsI/AAAAAAAAAEQ/0_u7w8bETYsEC6GD4fgm194XKPijHrVPgCLcBGAsYHQ/s192/KaniaLogos.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HxqXeE57naA/XnrcgNe3ZsI/AAAAAAAAAEQ/0_u7w8bETYsEC6GD4fgm194XKPijHrVPgCLcBGAsYHQ/s512/KaniaLogos.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
