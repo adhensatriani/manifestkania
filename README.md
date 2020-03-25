@@ -1,0 +1,2 @@
+# manifestkania
+manifest kaniapay
